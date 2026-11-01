@@ -1,24 +1,176 @@
-# 💫 About Me:
-🔭 I’m currently working on backend projects using Java & Spring Boot<br><br>👯 I’m looking to collaborate on Java, Spring Boot & open-source projects<br><br>🤝 I’m looking for help with System Design & advanced Spring Boot<br><br>🌱 I’m currently learning Spring Boot, DSA, SQL & Machine Learning<br><br>💬 Ask me about Java, Spring Boot, REST APIs, SQL & DSA<br><br>⚡ Fun fact: I enjoy solving challenging programming problems
+<!-- ==================== HERO SECTION ==================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_pvt_636) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/no-usefun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsharsh636@gmail.com) 
+# Hey, I'm Harsh Agarwal 👋
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=no-usefun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=no-usefun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=no-usefun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend Developer | Java & Spring Boot | AI/ML Enthusiast
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Building reliable backend systems, exploring intelligent applications, and solving challenging problems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=no-usefun&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/no-usefun">
+  <img src="https://img.shields.io/badge/GitHub-no--usefun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/no-usefun">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:itsharsh636@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=no-usefun&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=no-usefun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ==================== ABOUT ME ==================== -->
+
+## 🧑‍💻 About Me
+
+```java
+public class Harsh {
+
+    String role = "Backend Developer";
+    String[] primarySkills = {
+        "Java", "Spring Boot", "REST APIs", "SQL"
+    };
+
+    String[] interests = {
+        "System Design",
+        "Artificial Intelligence",
+        "Open Source"
+    };
+
+    String currentFocus = "Building scalable backend applications";
+
+    String funFact = "I enjoy solving problems that make me think twice.";
+}
+```
+
+- 🔭 **Building:** Backend applications and full-stack projects.
+- 🌱 **Learning:** Advanced Spring Boot, System Design, DSA, and Machine Learning.
+- 🤝 **Collaborating:** Java, Spring Boot, and open-source projects.
+- 💬 **Discuss:** Java, REST APIs, SQL, backend architecture, and DSA.
+- 🎯 **Goal:** Build software that is scalable, maintainable, and useful.
+- ⚡ **Beyond code:** Anime, gaming, and exploring the universe.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,fastapi,flask,nodejs&perline=8" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" alt="Databases"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&perline=8" alt="Frontend Technologies"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=8" alt="AI and Machine Learning"/>
+</p>
+
+### 🚀 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,postman,idea,vscode&perline=8" alt="Tools and DevOps"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/no-usefun/quiz-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=no-usefun&repo=quiz-app&theme=tokyonight&hide_border=true" alt="Quiz App Repository"/>
+</a>
+
+</div>
+
+### 💡 What I'm Building
+
+- **AI-Powered Proctoring System** — Developing an online examination platform with Spring Boot and AI-powered proctoring capabilities.
+- **Algorithm Visualizer** — Exploring interactive algorithm visualization with React, TypeScript, and Spring Boot.
+- **Backend Engineering** — Working on REST APIs, database design, authentication, and reliable application architecture.
+
+> More projects and experiments are available in my repositories.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=no-usefun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=no-usefun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no-usefun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/Harsh636_/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Find Me Around the Web
+
+<div align="center">
+
+<a href="https://linkedin.com/in/no-usefun">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/harsh_pvt_636">
+  <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:itsharsh636@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer's Reminder
+
+*Great software isn't just written. It's designed, tested, understood, and continuously improved.*
+
+**Thanks for stopping by! ⭐**
+
+</div>
