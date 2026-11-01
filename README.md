@@ -1,159 +1,175 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,40:312e81,75:7c3aed,100:06b6d4&text=HARSH%20AGARWAL&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Profile Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090f,40:312e81,75:7c3aed,100:06b6d4&text=HARSH%20AGARWAL&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Harsh Agarwal profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+reliable+backend+systems.;Turning+complex+problems+into+clean+solutions.;Java+%2B+Spring+Boot+%2B+PostgreSQL.;Exploring+AI%2FML+and+system+design." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+reliable+backend+systems.;Java+%2B+Spring+Boot+%2B+PostgreSQL.;Turning+complex+problems+into+clean+solutions.;Learning.+Building.+Improving." alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/no-usefun">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/no-usefun">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:itsharsh636@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/harsh_pvt_636">
-<img src="https://img.shields.io/badge/Instagram-Follow-DB2777?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<a href="https://github.com/no-usefun"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/no-usefun"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:itsharsh636@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://instagram.com/harsh_pvt_636"><img src="https://img.shields.io/badge/Instagram-Follow-DB2777?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=no-usefun&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=no-usefun&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## `01.` About Me
 
-## `01` // The Developer Behind the Code
+<img align="right" width="250" src="https://github-stats-extended.vercel.app/api/top-langs/?username=no-usefun&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages"/>
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no-usefun&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages"/>
+I'm Harsh Agarwal, a developer passionate about building reliable backend applications and exploring intelligent software.
 
-I'm Harsh — a developer interested in building **reliable backend systems** and exploring how intelligent software can solve real-world problems.
-
-- ⚙️ **Building:** Java and Spring Boot applications.
-- 🧠 **Exploring:** System Design, DSA, and Machine Learning.
-- 🗄️ **Working with:** REST APIs, PostgreSQL, and Hibernate.
-- 🔐 **Interested in:** Authentication, application security, and scalable architectures.
-- 🤝 **Open to:** Meaningful open-source contributions and engineering collaborations.
-- 🎮 **Off-screen:** Anime, gaming, and space exploration.
+- ⚙️ **Building:** Backend applications using Java and Spring Boot.
+- 🌱 **Learning:** Advanced Spring Boot, System Design, DSA, and Machine Learning.
+- 🗄️ **Working with:** REST APIs, PostgreSQL, Hibernate, and authentication.
+- 🔐 **Interested in:** Application security, scalable architecture, and backend engineering.
+- 🤝 **Open to:** Java projects, open-source contributions, and collaborations.
+- 🎮 **Beyond code:** Anime, gaming, and space exploration.
 
 <br clear="right"/>
+
+### A little about my developer mindset
 
 ```java
 public class HarshAgarwal {
 
     String role = "Backend Developer";
-    String primaryStack = "Java + Spring Boot";
-    String database = "PostgreSQL";
-    String mindset = "Learn. Build. Debug. Repeat.";
 
-    void buildSoftware() {
-        solveProblems();
-        writeCleanCode();
-        keepLearning();
-    }
+    String[] primaryStack = {
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "REST APIs"
+    };
+
+    String currentFocus = "System Design & Backend Engineering";
+
+    String motto = "Learn. Build. Debug. Repeat.";
 }
 ```
 
 ---
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-## `02` // My Tech Arsenal
+## `02.` Tech Arsenal
 
 <div align="center">
 
-### ⚡ Backend Engineering
+### ⚡ Backend Development
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,fastapi,flask&theme=dark" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,fastapi,flask,nodejs&theme=dark&perline=8" alt="Backend technologies"/>
 
-### 🗄️ Data & Persistence
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database Stack"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=8" alt="Database technologies"/>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&theme=dark" alt="Frontend Stack"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&theme=dark&perline=8" alt="Frontend technologies"/>
 
 ### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI and Machine Learning"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=8" alt="AI and machine learning technologies"/>
 
 ### 🚀 DevOps & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,postman,idea,vscode&theme=dark" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,postman,idea,vscode&theme=dark&perline=8" alt="Developer tools"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## `03.` Things I'm Building
 
-## `03` // Things I'm Building
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ AI-Powered Proctoring
+### 🔍 AI Plagiarism Checker
 
-An online examination platform combining backend engineering with AI-powered proctoring.
+A Python-based project focused on detecting plagiarism in text.
 
-**Focus areas**
-- Spring Boot backend
-- Quiz and attempt management
-- Identity verification and monitoring
-- Exam integrity and event handling
+**Tech:** `Python`
 
-**Stack:** `Java` `Spring Boot` `PostgreSQL` `Python`
+<a href="https://github.com/no-usefun/AI_plagarism_Checker">
+<img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View AI Plagiarism Checker"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Algorithm Visualizer
+### 🌱 Crop Recommendation System
 
-An interactive application for exploring algorithms and understanding how they work.
+A machine learning project for recommending suitable crops based on agricultural input data.
 
-**Focus areas**
-- Interactive visualizations
-- Frontend/backend integration
-- API development
-- Algorithmic problem-solving
+**Tech:** `Python`
 
-**Stack:** `React` `TypeScript` `Spring Boot`
+<a href="https://github.com/no-usefun/Crop-Recommendation-System">
+<img src="https://img.shields.io/badge/View_Repository-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View Crop Recommendation System"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Quiz Application
+### 📊 Data Visualizer
 
-A full-stack quiz platform with a focus on backend architecture and reliable assessment workflows.
+A data structures and algorithms visualization project.
 
-<a href="https://github.com/no-usefun/quiz-app">
-<img src="https://img.shields.io/badge/Explore_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Quiz App"/>
+**Tech:** `TypeScript` . `Java`
+
+<a href="https://github.com/no-usefun/DATA-VISUALIZER">
+<img src="https://img.shields.io/badge/View_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Data Visualizer"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering Lab
+### ✅ Todo List App
 
-Experimenting with REST APIs, database design, authentication, testing, and deployment.
+A simple task management application built with React.
 
-**Current interests**
-- Clean architecture
-- API security
-- Database consistency
-- Automated testing and CI/CD
+**Tech:** `JavaScript` · `React`
+
+<a href="https://github.com/no-usefun/todoListApp">
+<img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Todo List App"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Coding Platform API
+
+A project related to coding platforms and their APIs.
+
+**Tech:** `JavaScript` . `Node`
+
+<a href="https://github.com/no-usefun/Coding-Platform-Api">
+<img src="https://img.shields.io/badge/View_Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Coding Platform API"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Quiz App
+
+A capstone project for online quizzes and assessments.
+
+**Tech:** `TypeScript` . `Java`
+
+<a href="https://github.com/no-usefun/quiz-app">
+<img src="https://img.shields.io/badge/View_Repository-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View Quiz App"/>
+</a>
 
 </td>
 </tr>
@@ -162,63 +178,47 @@ Experimenting with REST APIs, database design, authentication, testing, and depl
 <div align="center">
 
 <a href="https://github.com/no-usefun?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-View_Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+<img src="https://img.shields.io/badge/Explore_All_Projects-View_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
-## `04` // GitHub Command Center
+## `04.` GitHub Command Center
 
 <div align="center">
 
 <a href="https://github.com/no-usefun">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=no-usefun&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=22D3EE&title_color=7C3AED" alt="GitHub Stats"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=no-usefun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/no-usefun">
-<img width="49%" src="https://streak-stats.demolab.com?user=no-usefun&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Contribution Streak"/>
+<a href="https://streak-stats.demolab.com">
+<img width="48%" src="https://streak-stats.demolab.com/?user=no-usefun&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </a>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=no-usefun&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
 
 </div>
 
+> **Note:** These cards are provided by external services. If either image fails to load, open its image URL directly to check whether the service is available.
+
 ---
 
-<!-- ═══════════════════════ PROBLEM SOLVING ═══════════════════════ -->
-
-## `05` // Problem-Solving Mode
+## `05.` Problem-Solving Mode
 
 <div align="center">
 
-<a href="https://leetcode.com/Harsh636_/">
-<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Contest_Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
+<a href="https://leetcode.com/Harsh636_/"><img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Contest_Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 
 <br/><br/>
 
-**The objective:** Improve problem-solving skills, understand algorithmic trade-offs, and write efficient code.
+**The objective:** Improve algorithmic thinking, understand trade-offs, and write efficient code.
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
-
-## `06` // Currently Leveling Up
+## `06.` Currently Leveling Up
 
 <div align="center">
 
@@ -229,34 +229,30 @@ Experimenting with REST APIs, database design, authentication, testing, and depl
 | 🧩 Algorithms | DSA & problem-solving |
 | 🗄️ Databases | PostgreSQL, indexing & query optimization |
 | 🤖 AI / ML | Machine Learning & intelligent applications |
-| 🚢 Engineering | Docker, CI/CD & reliable deployments |
+| 🚀 Engineering | Docker, CI/CD & reliable deployments |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## `07.` Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:22D3EE,100:7C3AED" width="100%" alt="Divider"/>
-
-### `07` // Have an Interesting Problem?
-
-I'm interested in collaborating on backend systems, Java projects, and open-source software.
+Interested in backend engineering, Java development, AI-powered applications, or open-source collaboration?
 
 <a href="mailto:itsharsh636@gmail.com">
-<img src="https://img.shields.io/badge/Let's_Build_Something-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+<img src="https://img.shields.io/badge/Let's_Build_Something-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Harsh"/>
 </a>
 
 <br/><br/>
 
-*“First, solve the problem. Then, write the code.”*
+*“Great software is designed, tested, understood, and continuously improved.”*
 
-<sub>Designed with curiosity, caffeine, and a terminal full of ideas.</sub>
+<sub>Built with curiosity, persistence, and a terminal full of ideas.</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:312e81,100:09090f" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:312e81,100:09090f" width="100%" alt="Profile footer"/>
 
 </div>
